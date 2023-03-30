@@ -47,5 +47,5 @@ Here are some ideas to get you started:
   - Databases
       - SQL
       - MySQL
-      - Python
+      - Mongo
       - Pandas 
