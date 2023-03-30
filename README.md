@@ -44,3 +44,8 @@ Here are some ideas to get you started:
       - Rails
       - Vue
       - Next
+  - Databases
+      - SQL
+      - MySQL
+      - Python
+      - Pandas 
